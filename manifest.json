@@ -29,6 +29,11 @@
       "js": ["canvas.js"],
       "matches": ["https://*.instructure.com/*"]
     },
+	{
+      "css": ["canvas.css"],
+      "js": ["canvas.js"],
+      "matches": ["https://canvas.asu.edu/*"]
+    },
     {
       "css": ["canvas.css"],
       "js": ["canvas.js"],
@@ -37,11 +42,11 @@
     {
 
       "css": ["webwork.css"],
-      "matches": ["https://webwork.uncc.edu/*"]
+      "matches": ["https://webwork.asu.edu/*"]
     },
     {
       "css": ["webauth.css"],
-      "matches": ["https://webauth.uncc.edu/*"]
+      "matches": ["https://webauth.asu.edu/*"]
     }]
 
 }
